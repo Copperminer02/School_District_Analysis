@@ -48,14 +48,14 @@ At the request of the state's Chief Data Scientist, I performed an initial  perf
   - ***Effect on Thomas High School Performance:*** Overall the nullification of Thomas' 9th grade scores did little to affect it's overall rating; however, the drop was enough for Griffin High School to surpass Thomas slightly in Average Math Score (0.001%) and % Passing Reading (0.1%).  Thomas is still clearly a top school, and any error's in the ninth grade data are fairly insignificant to the total validation of teh original analysis.
 
 - **Analysis Comparisons: Effect of Thomas 9th Grade Change**
-  - ***Math Scores by grade*** - Thomas 9th grade originally scored and average 83.6% on the math testing.  This is 0.1% higher then the next highest grades (11th and 12th 83.5%), and 0.2% high than the average for all other Thomas Grades.  Compared to other schools, Thomas 9th grade was second only to Holden (83.8%) and tied with Pena (83.6%) for best average math score. 
+  - ***Math Scores by grade*** - Thomas 9th grade originally scored and average 83.6% on the math testing.  This is 0.1% higher then the next highest grades (11th and 12th 83.5%), and 0.2% high than the average for all other Thomas Grades.  Compared to other schools, Thomas 9th grade was second only to Holden (83.8%) and tied with Pena (83.6%) for best average math score. Thomas's 9th grade removal lowers the ALL 9th grade average math grade by 0.23% from 80.4 to 80.1.
     - ***Original Analysis*** 
     ![image](https://user-images.githubusercontent.com/91850824/148696680-578da15a-91a7-45ba-b1b3-839bcb97f874.png)
 
     - ***Thomas Analysis***
     ![image](https://user-images.githubusercontent.com/91850824/148696677-e2322a6e-e8a2-4e67-b704-b54500b55a3d.png)
 
-  - ***Reading Scores by grade***
+  - ***Reading Scores by grade*** - Thomas 9th grade originally scored and average 83.7% on the reading testing.  This is 0.1% higher then lowest grade (11th 83.6%), and 0.3% lower than the average for all other Thomas Grades (83.9).  Compared to other schools, Thomas 9th grade was tied for 5th. Thomas's 9th grade removal lowers the ALL 9th grade average reading grade by 0.1% from 80.35 to 80.12.
     - ***Original Analysis*** 
     ![image](https://user-images.githubusercontent.com/91850824/148696698-6b109d34-7625-423a-84ae-3059b72adef7.png)
 
@@ -64,20 +64,32 @@ At the request of the state's Chief Data Scientist, I performed an initial  perf
 
   - ***Scores By School Spending:*** The *Thomas Analysis* had no effect.
     - ***Original Analysis*** 
+    ![image](https://user-images.githubusercontent.com/91850824/148697634-f6c461b0-7685-4e7f-8155-467c5ba85a18.png)
 
     - ***Thomas Analysis***
+    ![image](https://user-images.githubusercontent.com/91850824/148697640-41e8f362-b49a-44cd-a7dd-93c8137e680f.png)
 
 
   - ***Scores By School Size:*** The *Thomas Analysis* had no effect.
     - ***Original Analysis*** 
+    ![image](https://user-images.githubusercontent.com/91850824/148697643-bf13a0ec-82a7-4c63-b1e8-7174d2ba58f9.png)
 
     - ***Thomas Analysis***
+    ![image](https://user-images.githubusercontent.com/91850824/148697650-961539a4-8444-437a-a8c9-39745100bfa7.png)
 
 
   - ***Scores By School Type:*** The *Thomas Analysis* had no effect.
     - ***Original Analysis*** 
+    ![image](https://user-images.githubusercontent.com/91850824/148697652-0763913e-be1a-469b-81b2-c4eab5e7cef0.png)
 
     - ***Thomas Analysis***
-
+    ![image](https://user-images.githubusercontent.com/91850824/148697654-f3d4edaa-e15f-4787-b963-2b36ef26d617.png)
 
 ## Summary
+
+Overall, the removal of Thomas High School's 9th grade scores was not of huge significance to the overall validity of the original analysis or a noticeble blemish to the overall performance of the school.  The main changes to the original analysis are:
+  
+1. The Average Math Score for the district dropped 0.1% from 79 to 78.9
+2. The % Passing Math for the district dropped 0.2% from 75 to 74.8.
+3. % Passing Reading for the Dsitrict dropped 0.1% from 85.8 to 85.7.
+4. % Overall Passing for the District dropped 0.3% from 65.2 to 64.9
