@@ -17,7 +17,7 @@ At the request of the state's Chief Data Scientist, I performed an initial  perf
  
  ## Results
  
-- **District Summary:** The overall affect of the Thomas data is noticeable, but overwhelming.  The new analysis (hereinafter *Thomas Analysis*) shows mild decreases in % Passing Math (0.2%), % Passing Reading (0.1%), and Overall Passing (0.3%).  
+- **District Summary:** The overall effect of the Thomas data is noticeable, but not overwhelming.  The new analysis (hereinafter *Thomas Analysis*) shows mild decreases in % Passing Math (0.2%), % Passing Reading (0.1%), and Overall Passing (0.3%).  
   - ***Original Analysis*** 
  ![image](https://user-images.githubusercontent.com/91850824/148695200-e10d5c16-5e2b-44d4-8fab-c321ce78daba.png)
 
@@ -45,10 +45,10 @@ At the request of the state's Chief Data Scientist, I performed an initial  perf
     - ***Thomas Analysis***
   ![image](https://user-images.githubusercontent.com/91850824/148695787-f92ff092-45ae-4cfc-8b83-277304662ad9.png)
 
-  - ***Effect on Thomas High School Performance:*** Overall the nullification of Thomas' 9th grade scores did little to affect it's overall rating; however, the drop was enough for Griffin High School to surpass Thomas slightly in Average Math Score (0.001%) and % Passing Reading (0.1%).  Thomas is still clearly a top school, and any error's in the ninth grade data are fairly insignificant to the total validation of teh original analysis.
+  - ***Effect on Thomas High School Performance:*** Overall the nullification of Thomas' 9th grade scores did little to affect it's overall rating; however, the drop was enough for Griffin High School to surpass Thomas slightly in Average Math Score (0.001%) and % Passing Reading (0.1%).  Thomas is still clearly a top school, and any error's in the ninth grade data are fairly insignificant to the total validation of the original analysis.
 
 - **Analysis Comparisons: Effect of Thomas 9th Grade Change**
-  - ***Math Scores by grade*** - Thomas 9th grade originally scored and average 83.6% on the math testing.  This is 0.1% higher then the next highest grades (11th and 12th 83.5%), and 0.2% high than the average for all other Thomas Grades.  Compared to other schools, Thomas 9th grade was second only to Holden (83.8%) and tied with Pena (83.6%) for best average math score. Thomas's 9th grade removal lowers the ALL 9th grade average math grade by 0.23% from 80.4 to 80.1.
+  - ***Math Scores by grade*** - Thomas 9th grade originally scored an average of 83.6% on the math testing.  This is 0.1% higher then the next highest grades (11th and 12th 83.5%), and 0.2% higher than the average for all other Thomas Grades.  Compared to other schools, Thomas 9th grade was second only to Holden (83.8%) and tied with Pena (83.6%) for best average math score. Thomas's 9th grade removal lowers the ALL 9th grade average math grade by 0.23% from 80.4 to 80.1.
     - ***Original Analysis*** 
     ![image](https://user-images.githubusercontent.com/91850824/148696680-578da15a-91a7-45ba-b1b3-839bcb97f874.png)
 
